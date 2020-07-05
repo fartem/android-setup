@@ -1,5 +1,7 @@
 # Android Setup
 
+Using Android OS's and soft.
+
 ## Devices
 
 | Device | OS | Comment |
