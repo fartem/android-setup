@@ -12,10 +12,12 @@ Using Android OS's and soft.
 
 * [Development](./soft/categories/development.md)
 * [System](./soft/categories/system.md)
+* [Launchers](./soft/categories/launchers.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
 * [Articles](./soft/categories/articles.md)
 * [Social](./soft/categories/social.md)
+* [Podcasts](./soft/categories/podcasts.md)
 * [Readers](./soft/categories/readers.md)
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
