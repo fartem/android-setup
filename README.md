@@ -19,6 +19,11 @@ Using Android OS's and soft.
 * [Social](./soft/categories/social.md)
 * [Podcasts](./soft/categories/podcasts.md)
 * [Readers](./soft/categories/readers.md)
+* [Managment](./soft/categories/managment.md)
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Storages](./soft/categories/storages.md)
+* [Services](./soft/categories/services.md)
+* [Games](./soft/categories/games.md)
+* [Others](./soft/categories/others.md)
+
