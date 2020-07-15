@@ -6,3 +6,4 @@
 | Skype | Messenger | https://play.google.com/store/apps/details?id=com.skype.raider |
 | Slack | Messenger | https://play.google.com/store/apps/details?id=com.Slack |
 | Hangouts | Messenger | https://play.google.com/store/apps/details?id=com.google.android.talk |
+

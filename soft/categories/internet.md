@@ -8,3 +8,4 @@
 | Reddit | Reddit client | https://play.google.com/store/apps/details?id=com.reddit.frontpage |
 | SoundCloud | SoundCloud client | https://play.google.com/store/apps/details?id=com.soundcloud.android |
 | Wikipedia | Wikipedia client | https://play.google.com/store/apps/details?id=org.wikipedia |
+
