@@ -14,6 +14,7 @@ Using Android OS's and soft.
 * [System](./soft/categories/system.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
+* [News](./soft/categories/news.md)
 * [Articles](./soft/categories/articles.md)
 * [Social](./soft/categories/social.md)
 * [Podcasts](./soft/categories/podcasts.md)

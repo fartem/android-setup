@@ -2,5 +2,6 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| Yandex.Maps and Transport | Maps | https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps |
+| Spotify | Spotify client | https://play.google.com/store/apps/details?id=com.spotify.music |
+| SoundCloud | SoundCloud client | https://play.google.com/store/apps/details?id=com.soundcloud.android |
 
