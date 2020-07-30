@@ -20,6 +20,7 @@ Using Android OS's and soft.
 * [Podcasts](./soft/categories/podcasts.md)
 * [Storages](./soft/categories/storages.md)
 * [Services](./soft/categories/services.md)
+* [Office](./soft/categories/office.md)
 * [Games](./soft/categories/games.md)
 * [Others](./soft/categories/others.md)
 
