@@ -6,7 +6,7 @@ Using Android OS's and soft.
 
 | Device | OS | Comment |
 | --- | --- | --- |
-| Xiaomi Mi A1 | Android 10 ([LineageOS](https://lineageos.org))
+| Xiaomi Mi A1 | Android 10 ([LineageOS 17.1](https://lineageos.org))
 
 ## Soft
 
