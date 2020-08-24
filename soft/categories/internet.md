@@ -4,4 +4,5 @@
 | --- | --- | --- | --- | --- |
 | DuckDuckGo | Privacy Web browser | https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android |
 | ProtonMail | Email client | https://play.google.com/store/apps/details?id=ch.protonmail.android |
+| LibreTorrent | Torrent client | https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent |
 
