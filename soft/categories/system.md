@@ -8,4 +8,3 @@
 fyr.sai |
 | Solid Explorer | File Manager | https://play.google.com/store/apps/details?id=pl.solidexplorer2 |
 | QR code reader & QR code Scanner | QR code reader | https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner |
-

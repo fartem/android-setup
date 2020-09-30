@@ -8,21 +8,23 @@ Using Android OS's and soft.
 
 | Device | OS | Comment |
 | --- | --- | --- |
-| Xiaomi Mi A1 | Android 10 ([LineageOS 17.1](https://lineageos.org))
+| Xiaomi Mi A1 | Android 10 ([Pixel Experience](https://download.pixelexperience.org))
 
 ## Soft
 
 * [Development](./soft/categories/development.md)
+* [Productivity](./soft/categories/productivity.md)
+* [Learn](./soft/categories/learn.md)
+* [Clients](./soft/categories/clients.md)
 * [System](./soft/categories/system.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
-* [News](./soft/categories/news.md)
+* [RSS](./soft/categories/rss.md)
 * [Articles](./soft/categories/articles.md)
 * [Social](./soft/categories/social.md)
 * [Podcasts](./soft/categories/podcasts.md)
 * [Storages](./soft/categories/storages.md)
-* [Services](./soft/categories/services.md)
+* [Streaming](./soft/categories/streaming.md)
 * [Office](./soft/categories/office.md)
 * [Media](./soft/categories/media.md)
 * [Others](./soft/categories/others.md)
-

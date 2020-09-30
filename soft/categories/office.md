@@ -2,5 +2,6 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| LibreOffice Viewer | Articles manager | https://f-droid.org/en/packages/org.documentfoundation.libreoffice |
-| Simple Scan | Scanner | https://play.google.com/store/apps/details?id=com.simplescan.scanner |
+| Docs | Docs app| https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs |
+| Sheets | Sheets app | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets |
+| Tables | Tables app | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides |
