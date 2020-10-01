@@ -1,4 +1,4 @@
-## Others
+## Other
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |

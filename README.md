@@ -27,4 +27,4 @@ Using Android OS's and soft.
 * [Streaming](./soft/categories/streaming.md)
 * [Office](./soft/categories/office.md)
 * [Media](./soft/categories/media.md)
-* [Others](./soft/categories/others.md)
+* [Other](./soft/categories/other.md)
