@@ -25,6 +25,7 @@ Using Android OS's and soft.
 * [Podcasts](./soft/categories/podcasts.md)
 * [Storages](./soft/categories/storages.md)
 * [Streaming](./soft/categories/streaming.md)
+* [Medicine](./soft/categories/medicine.md)
 * [Office](./soft/categories/office.md)
 * [Media](./soft/categories/media.md)
 * [Other](./soft/categories/other.md)
