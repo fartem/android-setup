@@ -1,4 +1,4 @@
-## News 
+## RSS
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
