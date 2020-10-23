@@ -15,7 +15,6 @@ Using Android OS's and soft.
 * [Development](./soft/categories/development.md)
 * [Productivity](./soft/categories/productivity.md)
 * [Learn](./soft/categories/learn.md)
-* [Clients](./soft/categories/clients.md)
 * [System](./soft/categories/system.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
